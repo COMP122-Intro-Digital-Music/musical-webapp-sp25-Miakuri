@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "breath",
+    "file": "samples/bassy-vocal-synth-chord_C_minor.wav",
+    "bpm": "115",
+    "loop": 5,
+    "grain": "0.121",
+    "overlap": "0.051"
+  },
+  {
+    "name": "buzz",
+    "file": "samples/female-vocal-chopped-fast-singing-stutter_140bpm_E.wav",
+    "bpm": "115",
+    "loop": 5,
+    "grain": "0.191",
+    "overlap": "0.191"
+  },
+  {
+    "name": "chime",
+    "file": "samples/tiny-soft-bell_F#.wav",
+    "bpm": "115",
+    "loop": 5,
+    "grain": "0.091",
+    "overlap": "0.001"
+  }
+]
